@@ -1,4 +1,3 @@
-# Notes
 # Check if gcc / gdb is downloaded
 <p>How to check if gcc is install:</p>
 <p>Type "gcc --version" in cmd</p>
