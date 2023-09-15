@@ -1,3 +1,7 @@
+# Problem:
+<p>When I try to debug my c code it says gdb not found and after checking i realised it was not installed.</p>
+<p>Spent quite a lot of my time solving this problem so I will just share my experience here in 2 steps.</p>
+
 # Check if gcc / gdb is downloaded
 <p>How to check if gcc is install:</p>
 <p>Type "gcc --version" in cmd</p>
