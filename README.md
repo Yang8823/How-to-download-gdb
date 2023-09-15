@@ -10,3 +10,6 @@
 
 # How to install gdb
 <p>Type "mingw-get.exe install gdb" in cmd</p>
+
+# Conclusion
+<p>After installing gdb and confirming that gdb is install though typing "gdb" in cmd, the c/c++ debugger for vscode should work. <Br> Happy Coding :)</p>
