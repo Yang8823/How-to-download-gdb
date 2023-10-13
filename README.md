@@ -1,5 +1,5 @@
 # Problem:
-<p>When I try to debug my c code in vscode it shows "launch program open launch.json for <path>". After I try to configurate the .json file it says something about gdb not found. <br>After checking I realised gdb was not installed.</p>
+<p>When I try to debug my c code in vscode it shows "launch program 'enter program name, for example ' does not exit" and ask to "Open 'launch.json'" for <path>. After I try to configurate the .json file it says something about gdb not found. <br>After checking I realised gdb was not installed.</p>
 <p>Spent quite a lot of my time solving this problem so I want to share my experience solving it in 2 steps.</p>
 
 # Check if gcc / gdb is downloaded
